@@ -1,2 +1,5 @@
 # cv-1
-https://theshy456.github.io/cv-1/dist/index.html
+每次改完代码，都必须运行以下代码才能正确的请求
+```
+parcel build src/index.html --public-url .
+```
